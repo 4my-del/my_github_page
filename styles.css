@@ -1,13 +1,13 @@
 body{
     font-family: Arial, sans-serif;
     color: #333;
-    background-colour: Lightpink;
+    background-color: Lightpink;
     margin:0;
     padding:0;
     line-height: 1.6;
 }    
 header{
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     color: deeppink;
     padding: 20px;
     text-align: center;  
@@ -38,9 +38,9 @@ main img {
     margin: 20px 0;
      
 footer {
-    background-color: white;
+    background-color: rgb(255, 255, 255);
     color: deeppink;
-    text-align: center;
+    text-align:center;
     padding: 10px;
     position:fixed;
     bottom:0;
@@ -59,10 +59,10 @@ a:hover{
     text-decoration: underline;
 } 
 img {
-    border: 5px solid #4caf59;
+    border: 5px solid #4caf50;
      border-radius: 10px;
 } 
 main a[href^="mailto:] {
-    color: #ff5722;
+    color:#ff5722;
     font-weight: bold;
 }
